@@ -1,0 +1,37 @@
+<biblio>
+    <livre>
+        <numero>123</numero>
+        <titre>Dialogues Sur L'Epicurisme Et Le Stoicisme</titre>
+        <auteur>Ciceron</auteur>
+        <editeur>La Bibliotheque De L'Antiquite</editeur>
+        <prix>60</prix>
+    </livre>
+    <livre>
+        <numero>124</numero>
+        <titre>Le Pavillon d'Or</titre>
+        <auteur>Yukio Mishima</auteur>
+        <editeur>Gallimard</editeur>
+        <prix>45</prix>
+    </livre>
+    <livre>
+        <numero>125</numero>
+        <titre>Discours de la methode</titre>
+        <auteur>Rene Descartes</auteur>
+        <editeur>Flammarion</editeur>
+        <prix>15</prix>
+    </livre>
+    <livre>
+        <numero>126</numero>
+        <titre>Nouveaux essais sur l'entendement humain</titre>
+        <auteur>Gottfried Wilhelm Leibniz</auteur>
+        <editeur>Flammarion</editeur>
+        <prix>15</prix>
+    </livre>
+    <livre>
+        <numero>127</numero>
+        <titre>Critique de la raison pure</titre>
+        <auteur>Emmanuel Kant</auteur>
+        <editeur>PUF</editeur>
+        <prix>35</prix>
+    </livre>
+</biblio>
